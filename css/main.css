@@ -5,7 +5,9 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+.img--logo {
+  border-radius: 50%;
+}
 html {
   scroll-behavior: smooth;
 }
